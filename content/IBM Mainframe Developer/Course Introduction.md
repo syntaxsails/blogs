@@ -1,7 +1,11 @@
 ---
-title: '"Course Introduction"'
+title: Course Introduction
 draft: false
-tags: []
+tags:
+  - ibm
+  - mainframe
+  - coursera
+  - blog
 ---
 Welcome to the **Introduction to Enterprise Computing** course, brought to you by **IBM**! This foundational course will introduce you to the core concepts, systems, and technologies that power enterprise-scale computing, particularly on IBM Z mainframes. With mainframes responsible for the majority of global business transactions, understanding their architecture and operation is critical for anyone aspiring to work in IT infrastructure, systems engineering, or enterprise-level security.
 

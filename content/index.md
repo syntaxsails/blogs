@@ -20,3 +20,5 @@ Consider this your interactive knowledge base, built with Obsidian and published
 ### 📋 Table of Contents
 - [🖥️ IBM Mainframe Developer](IBM-Mainframe-Developer/)
 	- [Introduction to Enterprise Computing](IBM-Mainframe-Developer/Introduction-to-Enterprise-Computing)
+- [📆 Google Project Management](Google-Project-Management/)
+	- [Putting it All Together](Google-Project-Management/Project-Planning%20-%20Putting-It-All-Together)

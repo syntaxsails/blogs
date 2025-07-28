@@ -22,3 +22,7 @@ Consider this your interactive knowledge base, built with Obsidian and published
 	- [Introduction to Enterprise Computing](IBM-Mainframe-Developer/Introduction-to-Enterprise-Computing)
 - [📆 Google Project Management](Google-Project-Management/)
 	- [Putting it All Together](Google-Project-Management/Project-Planning%20-%20Putting-It-All-Together)
+- [🖥️ Applied Statistics and Data Science](Applied-Statistics-and-Data-Science)
+	- [Statistical Methods](Statistical-Methods)
+	- [Introduction to Data Science](Introduction-to-Data-Science)
+	- 
